@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @TriciaBuddiSunny
+- 👀 I’m interested in ...
+- Dance, Music, UI/UX designing, and frontEnd designs as well as Logo Designing
+- 🌱 I’m currently learning ...
+- TypeScript/JavaScript and mobile app inventory
+- 📫 How to reach me ...
+- romero.adelaine@gmail.com
+- 😄 Pronouns: ...
+- she/her
+- ⚡ Fun fact: ...
+- BuddiSunny is actually two names, each is for my cat: BuddiBaddi and SunnyOrange
+
+<!---
+TriciaBuddiSunny/TriciaBuddiSunny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
